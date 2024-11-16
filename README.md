@@ -66,7 +66,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
 
-[IMAGE](https://github.com/user-attachments/assets/d6768cf6-ab07-4ceb-896c-fc9b60ffdf7c)
+[Image](https://github.com/user-attachments/assets/d6768cf6-ab07-4ceb-896c-fc9b60ffdf7c)
 
 
 iv)	Creating the new test cell view
